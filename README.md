@@ -1,4 +1,6 @@
 # rp2040_ov2640
+
+starter code from: https://github.com/the6p4c/rp2040_ov2640 
 Quick demonstration of interfacing with an OV2640 camera from the Raspberry Pi
 Pico (RP2040).
 
